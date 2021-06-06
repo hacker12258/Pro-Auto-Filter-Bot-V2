@@ -51,11 +51,11 @@ class Translation(object):
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/MRk_YT">👤Mrk YT</a></b>
+<b>➥ 𝑴𝑶𝑽𝑰𝑬 𝑵𝑰𝑮𝑯𝑻</b> : <b><a href="https://t.me/joinchat/HKLQU33m1lo-Auto-FiltPro-Auto-FilPro-o-Auto-FiltPro-Auto-FilPo-Auto-FiltPro-Auto-Fo-Auto-FiltPro-Auto-Auto-FiltProo00NTI9">🔥Click Me</a></b>
 
-<b>➥ 🗣️Language</b> : <b>Python3<b>
+<b>➥ 𝙂𝙧𝙤𝙪𝙥</b> : <b><a href="https://t.me/Movi_Night">🔥Click Me</a><b>
 
-<b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
+<b>➥ 𝗖𝗵𝗮𝗻𝗻𝗲𝗹</b> : <b><a"https://t.me/MovieNight124">🔥Click Me>/a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/MRK-YT/Pro-Auto-Filter-Bot-V2">💥Click Me</a></b>
+<b>➥ 𝗖𝗵𝗮𝗻𝗻𝗲𝗹</b> : <b><a href="https://t.me/MovieNight234">🔥Click Me</a></b>
 """
