@@ -62,7 +62,7 @@ async def auto_filter(bot, update):
     if filters:
         results.append(
                 [
-                    InlineKeyboardButton("💢 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗠𝗮𝗶𝗻 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 💢", url=f"https://t.me/{MT_CHANNEL_USERNAME}")
+                    InlineKeyboardButton("📜𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗠𝗮𝗶𝗻 𝗰𝗵𝗮𝗻𝗻𝗲𝗹", url=f"https://t.me/{MT_CHANNEL_USERNAME}")
                 ]
             )
         for filter in filters: # iterating through each files
@@ -159,7 +159,7 @@ async def auto_filter(bot, update):
         
         # Just A Decaration
         result[0].append([
-            InlineKeyboardButton(f"📑 𝙿𝚊𝚐𝚎 1/{len_result if len_result < max_pages else max_pages} 📑", callback_data="ignore")
+            InlineKeyboardButton(f"📜 𝙿𝚊𝚐𝚎 1/{len_result if len_result < max_pages else max_pages} 📜", callback_data="ignore")
         ])
         
         
